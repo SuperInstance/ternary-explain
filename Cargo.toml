@@ -1,0 +1,11 @@
+[package]
+name = "ternary-explain"
+version = "0.1.0"
+edition = "2021"
+description = "Explainability for ternary agent decisions — why did the agent choose -1, 0, or +1?"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-explain"
+keywords = ["ternary", "explainability", "ai", "agent", "decision"]
+categories = ["algorithms", "science"]
+
+[dependencies]
